@@ -1,0 +1,2 @@
+-można utworzyć konto
+-do konta można zapisać dane firmy / do faktury etc.
